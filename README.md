@@ -1,5 +1,5 @@
 Welcome to the repository for "Derivative-Based Neural Modelling of Cumulative
-Distribution Functions for Survival Analysis".
+Distribution Functions for Survival Analysis", to appear at AISTATS 2022.
 
 ## Getting started
 
